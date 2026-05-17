@@ -119,4 +119,4 @@ Milkessa's branch structures materials at the root level, making them instantly 
    ```
 
 ---
-*Developed as part of the Solidity and Smart Contract Engineering program, 2026.*
+
