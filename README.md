@@ -14,6 +14,7 @@ To view a group member's specific codebase, deliverables, and course certificati
 | :--- | :---: | :--- | :---: | :---: |
 | **Abel Bekele** | `ugr/25421/14` | [`Abel-Bekele-UGR/25421/14`](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Abel-Bekele-UGR/25421/14) | [**Explore Branch ↗**](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Abel-Bekele-UGR/25421/14) | [**Abel's Directory 📁**](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Abel-Bekele-UGR/25421/14/Abel-Bekele) |
 | **Milkessa Girma** | `ugr/25294-14` | [`Milkessa-Girma-UGR/25294/14`](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Milkessa-Girma-UGR-25294-14) | [**Explore Branch ↗**](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Milkessa-Girma-UGR-25294-14) | [**Milkessa's Directory 📁**](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Milkessa-Girma-UGR-25294-14) |
+**Yaikob Wasihun** | `ugr/25294-14` | [`Yaikob-Wasihun-UGR/25294/14`](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Yaikob-Wasihun-UGR/25294/14) | [**Explore Branch ↗**](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Yaikob-Wasihun-UGR/25294/14) | [**Yaikob's Directory 📁**](https://github.com/Abel9436/Solidity-Course-Blockchain/tree/Yaikob-Wasihun-UGR/25294/14) |
 
 ---
 
