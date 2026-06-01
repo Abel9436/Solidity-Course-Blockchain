@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Database files (generated at runtime)
+*.db
+*.wal
+*.db.wal
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scripts
+rebuild_history.ps1
+
+# Distribution
+*.tar.gz
+*.whl
