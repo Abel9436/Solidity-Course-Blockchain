@@ -36,9 +36,6 @@ data/
 .DS_Store
 Thumbs.db
 
-# Scripts
-rebuild_history.ps1
-
 # Distribution
 *.tar.gz
 *.whl
