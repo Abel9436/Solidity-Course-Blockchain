@@ -117,7 +117,7 @@ This project is an educational deep-dive into database internals. Most developer
 ### Installation
 
 ```bash
-git clone [https://github.com/Abel9436/Solidity-Course-Blockchain.git](https://github.com/Abel9436/PySQLEngine.git)
+git clone https://github.com/Abel9436/PySQLEngine.git
 cd PySQLEngine
 pip install -e ".[dev]"
 ```
